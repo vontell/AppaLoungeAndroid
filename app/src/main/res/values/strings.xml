@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APPA Lounge</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="announ_title">Announcements</string>
+
+    <string name="login_title">Login to APPA Lounge</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_submit">Submit</string>
+    <string name="login_remember">Remember me?</string>
+    <string name="logging_in_title">Logging in...</string>
+    <string name="logged_in_title">Logged in!</string>
+    <string name="logged_in_title_bad">There was an error logging in :(</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
